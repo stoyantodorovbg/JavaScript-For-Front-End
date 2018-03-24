@@ -1,0 +1,88 @@
+Exercises: JavaScript Syntax 
+Problems for exercises and homework for the "JavaScript For Front-End Course @ SoftUni".
+
+1.	Multiply a Number by 2
+You are given a number N. Create a JS function that multiplies the number by 2 and prints the result. The input comes as an array of strings.
+Examples
+Input	Output		Input	Output		Input	Output		Input	Output
+2	4		3	6		30	60		13	26
+Hints
+ 
+2.	Multiply Two Numbers
+You are given a number X and a number Y. Create a JS function that multiplies X * Y and prints the result. The input comes as array of strings.
+Examples
+Input	Output		Input	Output		Input	Output		Input	Output
+2
+3	6		13
+13	169		1
+2	2		0
+50	0
+3.	Multiply / Divide a Number by a Given Second Number
+You are given a number N and a number X. Create a JS function that:
+•	Multiplies N * X if X is greater than or equal to N
+•	Divides N / X if N is greater than X
+The input comes as array of strings.
+Examples
+Input	Output		Input	Output		Input	Output		Input	Output
+2
+3	6		13
+13	169		3
+2	1.5		144
+12	12
+4.	Product of 3 Numbers
+You are given a number X, Y and Z. Create a JS function that finds if X * Y * Z (the product) is negative or positive. Try to do this WITHOUT multiplying the 3 numbers.
+Examples
+Input	Output		Input	Output		Input	Output
+2
+3
+-1	Negative		5
+4
+3	Positive		-3
+-4
+5	Positive
+Hint
+•	Count the negative numbers. If they are odd number, the result will be negative, otherwise ? positive.
+•	Special case: one of the numbers is 0 ? the product is positive.
+5.	Print Numbers from 1 to N
+You are given a number N. Create a JS function that loops through all the numbers from 1 to N and prints them. N will always be positive.
+Examples
+Input	Output		Input	Output
+5	1
+2
+3
+4
+5		2	1
+2
+6.	Print Numbers from N to 1
+You are given a number N. Create a JS function that loops through all the numbers from N to 1 and prints them. N will always be positive.
+Examples
+Input	Output		Input	Output
+5	5
+4
+3
+2
+1		2	2
+1
+7.	Print Numbers in Reversed Order
+You will be given a few numbers as input. You need to print them in reversed order, each on a new line.
+Examples
+Input	Output		Input	Output		Input	Output
+10
+15
+20	20
+15
+10		5
+5.5
+24
+-3	-3
+24
+5.5
+5		20
+1
+20
+1
+20	20
+1
+20
+1
+20
