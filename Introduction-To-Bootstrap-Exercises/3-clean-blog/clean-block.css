@@ -1,0 +1,18 @@
+main {
+    background-image: url("blog-372771_640.jpg");
+    background-size: 100%;
+}
+
+div.text-center {
+    padding-top: 170px;
+    padding-bottom: 200px;
+}
+
+p {
+    font-size: 28px;
+}
+
+div.container.text-white {
+    padding-top: 10px;
+}
+
